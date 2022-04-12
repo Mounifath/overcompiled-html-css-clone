@@ -1,0 +1,33 @@
+.span{
+    display: flex;
+}
+.navig{
+    display: flex;;
+    justify-content: space-around;
+}
+body{
+    margin: 
+}
+.article{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 0;auto
+}
+.date{
+    ;
+}
+.nav{
+    justify-content: space-between;
+    margin-right: 50px;
+}
+body{ background-color: azure;}
+.container{
+    width: 680px;
+    margin: 0 auto;
+}
+.navig{
+    display: flex;
+}
+.logo{
+margin-right: 450px;
+}
